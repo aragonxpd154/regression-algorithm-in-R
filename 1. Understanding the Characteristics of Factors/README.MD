@@ -1,6 +1,6 @@
 # Understanding the Characteristics of Factors
 
-Este projeto tem como objetivo processar dados financeiros e gerar gráficos para análise. Ele usa a biblioteca lubridate para trabalhar com data e hora.
+Este projeto script tem como objetivo processar dados financeiros e gerar gráficos para análise. Ele usa a biblioteca lubridate para trabalhar com data e hora. Pode ser usado para tratar outros volume dados especificos em R
 
 ## Etapa 1: Carregamento da Biblioteca
 
@@ -48,3 +48,9 @@ ggplot(df_mean, aes(x = year(date))) + geom_line(aes(y = mean_Mkt_RF), color = "
 ```
 
 O código também calcula o retorno cumulativo para as colunas Mkt_RF, SMB, HML, RMW e CMA e plota um gráfico de linha para as colunas `cum`.
+
+## Resultado
+
+O resultado você pode ver na imagem abaixo.
+
+![resultado_in_R](https://github.com/aragonxpd154/regression-algorithm-in-R/blob/main/1.%20Understanding%20the%20Characteristics%20of%20Factors/Result.png)
