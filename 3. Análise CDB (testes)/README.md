@@ -1,4 +1,4 @@
-# Análise de Investimento em Certificado de Depósito Bancário em Linguagem R
+# Análise de Investimento em Certificado de Depósito Bancário (CDB) em Linguagem R
 
 Este projeto tem como objetivo analisar investimentos em Certificado de Depósito Bancário (CDB) através de processamento de dados em R.
 
