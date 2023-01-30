@@ -1,14 +1,14 @@
 # regression-algorithm-in-R
 
-Este projeto tem como objetivo apresentar varias soluções de análise financeira por meio de algoritmos de regressão usando a linguagem R. A finalidade é aprimorar o entendimento sobre a aplicabilidade destes algoritmos em análises financeiras, com o intuito de identificar tendências e maximizar o retorno de investimentos.
+Este repositório tem como objetivo apresentar varias soluções de análise financeira por meio de algoritmos de regressão usando a linguagem R. A finalidade é aprimorar o entendimento sobre a aplicabilidade destes algoritmos em análises financeiras, com o intuito de identificar tendências e maximizar o retorno de investimentos.
 
 ## Objetivo
 
-O objetivo principal desse projeto é aplicar diferente tipos de algoritmos para processar dados financeiros, gerar gráficos para análise e realizar análises mais aprofundadas do assunto.
+O objetivo principal desse repositório é aplicar diferente tipos de algoritmos para processar dados financeiros, gerar gráficos para análise e realizar análises mais aprofundadas do assunto.
 
 ## Conteúdo
 
-O projeto contém scripts em R que realizam o seguinte processo:
+O repositório contém scripts em R que realizam o seguinte processo:
 
 Obtenção dos dados de investimentos de CDB, incluindo montantes investidos, prazos e retornos correspondentes.
 
