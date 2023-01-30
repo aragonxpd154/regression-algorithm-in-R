@@ -1,14 +1,14 @@
-# Análise de Investimento em Linguagem R
-A proposta desse codigo é:
+# Análise de Investimento em Certificado de Depósito Bancário em Linguagem R
 
-1 - Obter os dados de investimentos de CDB que você deseja analisar. Os dados devem incluir os montantes investidos, os prazos e os retornos correspondentes.
+Este projeto tem como objetivo analisar investimentos em Certificado de Depósito Bancário (CDB) através de processamento de dados em R.
 
-2 - Carregar os dados em um dataframe do R usando a função read.csv().
+## Etapas
 
-3 - Calcular o retorno anualizado de cada investimento de CDB usando a fórmula (1 + retorno) ^ (1 / prazo) - 1. Isso lhe dará uma ideia da rentabilidade anualizada dos investimentos de CDB.
+    Obtenção dos dados: Os dados dos investimentos em CDB devem incluir o montante investido, o prazo e o retorno correspondente.
+    Carregamento dos dados: Os dados serão carregados em um dataframe do R através da função read.csv().
+    Cálculo do retorno anualizado: O retorno anualizado de cada investimento em CDB será calculado usando a fórmula (1 + retorno) ^ (1 / prazo) - 1.
+    Ordenação dos dados: Os dados serão ordenados pelo retorno anualizado usando a função order(), colocando os investimentos em CDB com os maiores retornos anualizados no topo da tabela.
+    Seleção do investimento de CDB com maior retorno: O investimento em CDB com o maior retorno anualizado será selecionado através da função head().
+    Impressão do resultado: O resultado será impresso através da função print().
 
-4 - Ordenar os dados pelo retorno anualizado usando a função order(). Isso colocará os investimentos de CDB com os maiores retornos anualizados no topo da tabela.
-
-5 - Selecionar o investimento de CDB com o maior retorno anualizado usando a função head().
-
-6 - Imprima o resultado usando a função print().
+Este projeto fornecerá uma análise completa dos investimentos em CDB, permitindo aos investidores tomar decisões informadas sobre onde investir seus recursos.
