@@ -32,4 +32,4 @@ Pode ser aplicado em diferentes setores financeiros, tornando-se uma ferramenta 
 
 ## Considerações Finais
 
-Este projeto é destinado a fins acadêmicos e tem como objetivo aprimorar o conhecimento sobre a aplicabilidade de algoritmos de regressão em análises financeiras. É importante destacar que as informações apresentadas devem ser consideradas como uma referência e não devem ser utilizadas como uma recomendação de investimento.
+Este projeto é destinado a fins acadêmicos e tem como objetivo aprimorar o conhecimento sobre a aplicabilidade de algoritmos de regressão em análises financeiras. É importante destacar que as informações apresentadas devem ser consideradas como uma referência e não devem ser utilizadas como uma recomendação de investimento, qualquer coisa pode entrar em contato comigo link na bio do perfil.
