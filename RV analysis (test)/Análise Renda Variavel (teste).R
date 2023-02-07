@@ -16,4 +16,3 @@ stocks_grouped <- stocks %>%
 ggplot(stocks_grouped, aes(x = date, y = mean_price, color = symbol)) +
   geom_line() +
   ggtitle("Gráfico de Preços Médios por Símbolo de Ação e Data")
-
